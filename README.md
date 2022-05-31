@@ -6,3 +6,4 @@ Instructions to run the code:
 python3 rt-rrt_star.py
 ```
 
+![](https://github.com/abhijitmahalle/RT-RRT_star/blob/master/gif/rt-rrt_star.gif)
