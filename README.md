@@ -1,7 +1,8 @@
-## ENPM 661 Project 5
+# Implementation of RT-RRT* on a point robot
+This repository contains code to implement Real Time-RRT* on a point robot. It is the first real-time variant of RRT* and is capable of path planning in an environment with dynamic obstacles and changing goal position.  
 
-To run the code
+Instructions to run the code:
 ```
-python3 rt-rrt.py
+python3 rt-rrt_star.py
 ```
 
